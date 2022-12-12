@@ -1,0 +1,27 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ;
+}
+
+/* titolo e paragrafo */
+
+.page {
+    padding: 40px;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.opening h1 {
+    font-size: 30px;
+    color: salmon;
+    margin-bottom: 30px;
+}
+
+.opening p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* fine titolo e paragrafo */
